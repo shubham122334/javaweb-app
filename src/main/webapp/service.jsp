@@ -62,6 +62,9 @@ public class Main{
     </pre>
 
     <button>Compile and Run Java</button>
+<ul>
+    <li><a href="index.jsp">Home</a></li>
+</ul>
 </div>
 
 <script>
